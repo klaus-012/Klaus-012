@@ -21,14 +21,10 @@
 
 ## `>_ SYSTEM DIAGNOSTICS`
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=klaus-012&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaus-012&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Klaus-012&show_icons=true&theme=terminal&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaus-012&layout=compact&theme=terminal&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Klaus-012&theme=terminal&hide_border=true&background=0D1117" width="98%" />
-
-</div>
+<img src="https://streak-stats.demolab.com?user=klaus-012&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="98%" />
 
 ---
 
