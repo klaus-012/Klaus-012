@@ -21,8 +21,8 @@
 
 ## `>_ SYSTEM DIAGNOSTICS`
 
-<img src="https://github-readme-stats.vercel.app/api?username=klaus-012&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaus-012&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=klaus-012&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=klaus-012&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=klaus-012&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="98%" />
 
